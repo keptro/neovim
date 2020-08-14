@@ -8,6 +8,7 @@ source $HOME/.config/nvim/vim-plug/funtion.vim
 
 
 "----set up vim plug funtinos----"
+source $HOME/.config/nvim/vim-plug/which-key.vim
 source $HOME/.config/nvim/vim-plug/vimcolor.vim
 source $HOME/.config/nvim/vim-plug/floatterm.vim
 source $HOME/.config/nvim/vim-plug/startify.vim
